@@ -2,6 +2,7 @@ This is my final project for C++.
 
 Some examples of my code are:
 void enterSugar();
+![screen shot 2016-06-24 at 3 52 00 pm](https://cloud.githubusercontent.com/assets/17151731/16351672/a4c29972-3a24-11e6-9539-c84f999854b6.png)
 void calcHemo();
 void calcSugar();
 void reviewSugar();
