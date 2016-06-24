@@ -3,10 +3,10 @@ This is my final project for C++.
 Some examples of my code are:
 void enterSugar();
 ![screen shot 2016-06-24 at 3 52 00 pm](https://cloud.githubusercontent.com/assets/17151731/16351672/a4c29972-3a24-11e6-9539-c84f999854b6.png)
-void calcHemo();
+
 void calcSugar();
-void reviewSugar();
-void onlineInfo();
+
+![screen shot 2016-06-24 at 4 01 00 pm](https://cloud.githubusercontent.com/assets/17151731/16351722/fe318c3e-3a24-11e6-8348-3730da697bd8.png)
 The coding for this program is based on keeping track of your blood sugars, getting averages,
 checking your approximate hemoglobin A1C and and getting more information on diabetes type 1 and 2.
 
