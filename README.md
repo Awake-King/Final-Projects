@@ -22,5 +22,5 @@ it will take and add your blood sugars to a list to keep track of them. It can c
 averages of all your blood sugars. Allow you to review your blood sugar and give online information that will further
 your knowledge of your diabetes.
 
-If you want to contribute you can contact me on twitter at @BenBrown955 
-Also, my code is open to the public using Github.com
+If you want to contribute you can contact me on twitter at https://twitter.com/BenBrown955
+Also, my code is open to the public using https://github.com/Awake-King/Final-Projects/blob/master/Finalish%20Project-1.cpp
